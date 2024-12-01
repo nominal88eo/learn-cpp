@@ -1,0 +1,4 @@
+# depslib dependency file v1.0
+1732368121 source:d:\projects\learncpp\0.7-compiling-your-first-program\helloworld\main.cpp
+	<iostream>
+
